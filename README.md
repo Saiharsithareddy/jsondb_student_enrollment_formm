@@ -11,15 +11,10 @@ This project involves developing a student enrollment form that stores student d
 **Table of Contents**
 
 Introduction
-
 Benefits of using JsonPowerDB
-
 Scope of functionalities
-
 Examples of use
-
 Project status
-
 Sources
 
 Additional Information
